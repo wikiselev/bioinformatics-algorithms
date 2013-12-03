@@ -1,9 +1,7 @@
 # Bioinformatics Algorithms
 
-Here I will store simple but essential bioinformatics algorithms, which can be useful for everyday work.
+Here I will store interesting bioinformatics algorithms which I learnt via [Bioinformatics algorithms online course](https://class.coursera.org/bioinformatics-001/) together with [Stepic online educational resource](https://beta.stepic.org/). All scripts are very useful for everyday work.
 
-## kmer-expect-occur.R
+List of all scripts and explanation to them can be found at the repository's [wiki](https://github.com/wikiselev/bioinformatics-algorithms/wiki). Please find all the descriptions there. Note that here I don't provide any solutions to the course scored assignments. These are optional questions.
 
-An R script which allows you to ...
-
-![alt text](https://raw.github.com/wikiselev/bioinformatics-algorithms/master/figures/kmer-expect-occur.png)
+Please let me know if you have any comments or useful feedback! Enjoy!
